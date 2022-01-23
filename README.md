@@ -1,4 +1,4 @@
-# Hi, welcome! 👋
+# Hi, welcome! 👋  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vitoorgomes)
 
 ## About me (short version) :man_technologist:
 
@@ -63,3 +63,4 @@ For further contact, you can fill the form, send me an email and I'll get back t
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoorgomes&hide=ANTLR&theme=aura_dark" />
   </a>
 <div>
+
