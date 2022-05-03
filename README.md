@@ -47,8 +47,8 @@ For further contact, you can fill the form, send me an email and I'll get back t
 ## My socials
 
 <div style="display: flex; gap: 25px; justify-items: center; align-items: center;">
-  <a href="https://twitter.com/vitoorgomes1"><img alt="twitter" width="72px" src="/icons/twitter.svg" /></a>
-  <a href="https://www.instagram.com/vitoorgomes/"><img alt="instagram" width="72px" src="/icons/instagram.svg" /></a>
+  <a href="https://twitter.com/vitoorgomes1" rel="external" target="_blank"><img alt="twitter" width="72px" src="/icons/twitter.svg" /></a>
+  <a href="https://www.instagram.com/vitoorgomes" rel="external" target="_blank"><img alt="instagram" width="72px" src="/icons/instagram.svg" /></a>
 </div>
 
 
