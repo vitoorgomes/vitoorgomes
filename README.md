@@ -2,7 +2,7 @@
 
 ## About me (short version) :man_technologist:
 
-My name is José Vitor, I'm 26 years old and a brazilian developer. I've been developing since early 2018 and I always loved technology.
+My name is José Vitor, I'm 27 years old and a brazilian developer. I've been developing since early 2018 and I always loved technology.
 
 ---
 
@@ -47,7 +47,6 @@ For further contact, you can fill the form, send me an email and I'll get back t
 ## My socials
 
 <div style="display: flex; gap: 25px; justify-items: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-braga-94436711a/?locale=en_US"><img alt="linkedin" width="72px" src="/icons/linkedin.svg" /></a>
   <a href="https://twitter.com/vitoorgomes1"><img alt="twitter" width="72px" src="/icons/twitter.svg" /></a>
   <a href="https://www.instagram.com/vitoorgomes/"><img alt="instagram" width="72px" src="/icons/instagram.svg" /></a>
 </div>
