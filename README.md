@@ -2,7 +2,7 @@
 
 ## About me (short version) :man_technologist:
 
-My name is José Vitor, I'm 27 years old and a brazilian developer. I've been developing since early 2018 and I always loved technology.
+My name is José Vitor, I'm 27 years old and a brazilian developer. I've been serious developing since early 2018 and I always loved technology.
 
 ---
 
@@ -24,14 +24,9 @@ I started as a fullstack developer, but since end of 2018 I've been focusing on 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="html5" width="82px" src="https://img.icons8.com/color/240/000000/html-5.png" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="css3" width="82px" src="https://img.icons8.com/color/240/000000/css3.png" /></a>
   <a href="https://sass-lang.com/"><img alt="sass" width="82px" src="https://img.icons8.com/color/240/000000/sass.png" /></a>
-  <a href="https://www.json.org/json-en.html"><img alt="json" width="82px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /></a>
-  <a href="https://eslint.org/"><img alt="eslint" width="82px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" /></a>
   <a href="https://nodejs.org/en/"><img alt="Node.js" width="82px" src="https://img.icons8.com/color/240/000000/nodejs.png" /></a>
   <a href="https://nestjs.com/"><img alt="NestJS" width="82px" src="/icons/nestjs.svg" /></a>
   <a href="https://git-scm.com/"><img alt="Git" width="82px" src="https://img.icons8.com/color/240/000000/git.png" /></a>
-  <a href="https://github.com/"><img alt="github" width="82px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" /></a>
 </div>
 
 ---
